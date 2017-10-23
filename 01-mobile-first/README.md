@@ -52,6 +52,13 @@ Individual lab assignment to get started on Code Wars. Or lunch. You have two ho
   - We will be developing a deeper understanding of the technical foundations of the programming languages we are using, plus utilizing multiple 3rd-party libraries, all of which requires effective use of documentation.
   - In other words... [what does the docs say?](https://www.youtube.com/watch?v=jofNR_WkoCE) ;-)
 
+- Discussion on Agile workflow, with slides. (Sam)
+  - Agile vs. waterfall
+  - Pair programming
+  - Standup meetings
+  - User stories
+  - Sprints
+
 - Discussion of reading assignments (links at the bottom of this doc)
 
 `10-minute break`
