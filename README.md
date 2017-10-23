@@ -1,5 +1,6 @@
-# seattle-301d23
-*Class lecture repo for seattle-301d23. Lead Instructor: Sam Hamm*
+
+# seattle-301d25
+*Class lecture repo for seattle-301d25. Lead Instructor: Sam Hamm*
 
 <a id="top"></a>
 ## Code 301
