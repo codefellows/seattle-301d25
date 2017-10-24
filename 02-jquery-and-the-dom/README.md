@@ -6,7 +6,7 @@
 
 ## Daily Plan
 
-- Code review on yesterday's lab (45-50 min; Allie & JB)
+- Code review on this morning's lab (45-50 min; Allie & JB)
 
 `10-minute break`
 
