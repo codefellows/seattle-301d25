@@ -6,7 +6,7 @@
 
 ## Daily Plan
 
-**Code review on this morning's lab (45-50 min; Allie & JB)**
+**Code review on the prior lab (45-50 min; Allie & JB)**
 
 `10-minute break`
 
@@ -20,7 +20,7 @@
 
 `10-minute break`
 
-**Prep for tomorrow's lab (Sam; 30-45 minutes)**
+**Prep for the next lab (Sam; 30-45 minutes)**
   - Look at a working version
   - Overview: directory structure
   - Overview: how the lab code works
