@@ -27,7 +27,7 @@
 
 `10-minute break`
 
-**Lab Prep (Sam, 45 minutes**
+**Lab Prep & miscellany (Sam, 45 minutes or until 5:00)**
 
 - Let's see it in action!
 - Study the starter code! Especially **articleView.js**!
