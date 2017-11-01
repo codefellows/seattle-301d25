@@ -1,7 +1,5 @@
 # ![CF](https://i.imgur.com/7v5ASc8.png) Class 7: NodeJS & NPM
 
-=======
-
 ## Overview
 <!-- Provide a general overview of the daily concepts and processes that will be covered in lectures and labs -->
 
