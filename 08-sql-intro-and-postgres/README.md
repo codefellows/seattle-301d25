@@ -7,7 +7,7 @@
 
 *View today's and tomorrow's classes and labs as a big two-part structure. It's all the same basic subject, but way too much for one day, so we've split it.*
 
-**[Our Week 2 one-on-one meetings continue today! Follow this link to sign up for a slot.](https://sam-301d25.youcanbook.me/)**
+**[Our Week 2 one-on-one meetings continue! Follow this link to sign up for a slot.](https://sam-301d25.youcanbook.me/)**
 
 ## Daily Plan
 
