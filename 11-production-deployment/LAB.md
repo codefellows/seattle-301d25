@@ -9,6 +9,7 @@
 - Create a basic scaffold for each repo as the `first commit`
   - Do not add any features yet... just scaffold the directories and files for each repo.
 - Check out a new branch for today's lab assignment, semantically named `deployment`
+- See the adjacent deployment document for specific instructions
 - Complete your **Feature Tasks for the day**
 - Create a Pull Request (PR) back to `master`
 - Submit a link to your pull request on Canvas **Including the following:**
@@ -98,6 +99,7 @@ Implement a basic full stack application scaffold for a book list, which will re
 
 *As a developer, I want to deploy the backend API to a hosting service so that other developers may build their own frontend interfaces for this application.*
 
+- See the adjacent deployment document for specific instructions
 - Create a basic server scaffold based on the above `Server/` directory structure.
   - For testing purposes, you can include a temporary route such as `app.get('/test', (req, res) => res.send('hello world'))` to validate that your API has been successfully deployed.
 - Include any basic NPM requirements and ensure that they are documented as Dependencies in your `package.json`.
