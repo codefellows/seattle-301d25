@@ -40,6 +40,6 @@
     - The username is `knqrpsybxlro`
     - The database is `d4as4k2ei1di0`
     - The password (if needed) is `f01eb57a1a1ad9309925fc4eec2554710ecf79d8ff3987218dd78835103`
-- Use the following command format in your terminal to connect your Heroku database to your local shell: `psql -h <host> -p <port> -U <username> -W <password> <database>`
+- Use the following command format in your terminal to connect your Heroku database to your local shell: `psql -h <host> -p <port> -U <username> -W <password> <database>`. You may find that the database and password need to be reversed on your machine, so if the example does not work, try the format of `psql -h <host> -p <port> -U <username> -W <database> <password>` instead.
   - For this example, the command is: `psql -h ec2-107-22-187-21.compute-1.amazonaws.com -p 5432 -U knqrpsybxlptro d4as4k2ei1di0` and the password is not needed
   - The psql prompt should now appear as `d4as4k2ei1di0=>`, in this example. Now you can create your table and insert records.
