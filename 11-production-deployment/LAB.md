@@ -22,6 +22,7 @@
 - [GH-Pages Deployment](https://pages.github.com/)
 - [Express API Docs](http://expressjs.com/en/4x/api.html)
 - [Book List Wireframes](./wireframes)
+- [Demo To-Do App](https://todo-app-demo.github.io/todo-app-client/)
 
 ## Configuration
 - `ENV VARS` - Paste the following code snippet into your terminal window:
