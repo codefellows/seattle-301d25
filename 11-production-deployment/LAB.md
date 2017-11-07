@@ -2,13 +2,15 @@
 ===
 
 ## Submission Instructions
-- Create a new repository called `book-list-client`, and give it a description so you and anyone looking at it will know that it's the week 3 project for Code 301
-- Create a new repository called `book-list-server`, and give it a description so you and anyone looking at it will know that it's the week 3 project for Code 301
+- Create an organization on GitHub to hold your client-side and server-side repositories. Make sure your partner is a collaborator. Create a new folder within your `codefellows/301` directory and give it the same name as your organization. `cd` into this folder. You will be cloning both repositories into this folder. For example, in the file tree below, the organization and corresponding folder are named `book_app_week_3`.
+- Within your organization, create a new repository called `book-list-client`, and give it a description so you and anyone looking at it will know that it's the week 3 project for Code 301.
+- Within your organization, create a new repository called `book-list-server`, and give it a description so you and anyone looking at it will know that it's the week 3 project for Code 301
+- Clone both repositories into the project folder your created in the first item, above.
 - Create a basic scaffold for each repo as the `first commit`
   - Do not add any features yet... just scaffold the directories and files for each repo.
 - Check out a new branch for today's lab assignment, semantically named `deployment`
 - Complete your **Feature Tasks for the day**
-- Create a Pull Request back to `master`
+- Create a Pull Request (PR) back to `master`
 - Submit a link to your pull request on Canvas **Including the following:**
   - A question within the context of today's lab assignment
   - An observation about the lab assignment, or related 'Ah-hah!' moment
@@ -36,15 +38,20 @@ _Your repositories must each include the following config files:_
 - `README.md` - with documentation regarding your lab and it's current state of development. Check the "documentation" section below for more details on how that should look **AT MINIMUM**
 - `.gitignore` - with standard NodeJS configurations
 - `.eslintrc.json` - with Code 301 course standards for the linter
-- `package.json` - with all dependencies and devDependencies, and any associated details related to configuration
+
+_Your `book-list-server` repository must also include:_
+- `package.json` - with all dependencies and any associated details related to configuration
+
 
 ```sh
 . # book_app_week_3/
-├── README.md
-├── client
+├── book-list-client
 │   ├── data
 │   │   └── books.json
+|   ├── .eslintrc.json
+|   ├── .gitignore
 │   ├── index.html
+|   ├── README.md
 │   ├── scripts
 │   │   ├── models
 │   │   │   └── book.js
@@ -62,9 +69,12 @@ _Your repositories must each include the following config files:_
 │       ├── layout.css
 │       ├── modules.css
 │       └── reset.css
-└── server
+└── book-list-server
+    ├── .eslintrc.json
+    ├── .gitignore
     ├── package-lock.json
     ├── package.json
+    ├── README.md
     └── server.js
 ```
 
@@ -77,6 +87,7 @@ Implement a basic full stack application scaffold for a book list, which will re
 
 *As a developer, I want to separate the Client UI from the backend API so that my project is thoughtfully organized.*
 
+- Create a new GitHub organization to hold your frontend and backend repositories.
 - Create two new repositories for your week 3 project, `boook-list-client` and `book-list-server`. You will be building your application this week as two separate components: an API (backend) and a Client (frontend).
 
 *As a user, I want to host my app on a reliable, scalable application hosting service so that I can access my mobile app when I'm on the go and share it with others.*
