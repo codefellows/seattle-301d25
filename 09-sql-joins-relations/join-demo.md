@@ -18,7 +18,7 @@ year INTEGER,
 actor_id INTEGER REFERENCES actors(id)
 );
 
-INSERT INTO movies(title, year, actor_id)
+INSERT INTO movies(title, year, actors_id)
 VALUES('Big', 1988, 1),
 ('A League of Their Own', 1992, 1),
 ('Sleepless in Seattle', 1993, 1),
