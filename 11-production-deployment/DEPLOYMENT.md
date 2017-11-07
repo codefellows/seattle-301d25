@@ -29,7 +29,7 @@
 ##### Method 1:
 
 - If your local database exists, manually push your local database to Heroku.
-  - Use the following format for your command: `heroku pg:push books\_app DATABASE\_URL --app <partner 1 initials>-<partner 2 initials>-booklist`
+  - Use the following format for your command: `heroku pg:push books_app DATABASE_URL --app <partner 1 initials>-<partner 2 initials>-booklist`
 
 ##### Method 2:
 
