@@ -1,4 +1,4 @@
-![CF](https://i.imgur.com/7v5ASc8.png)  Class 11: Single Page Apps & Client-Side Routing
+![CF](https://i.imgur.com/7v5ASc8.png)  Class 12: Single Page Apps & Client-Side Routing
 =======
 ## Overview
 <!-- Provide a general overview of the daily concepts and processes that will be covered in lectures and labs -->
