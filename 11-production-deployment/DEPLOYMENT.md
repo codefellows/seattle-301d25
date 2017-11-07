@@ -17,14 +17,14 @@
   - This `__API_URL__` will be used in the AJAX requests within this file.
   - Your endpoint should follow the same pattern as the one listed above, so either remove the last `/` in the `__API_URL__` or remove the `/` in your AJAX requests, so it would appear as `${__API_URL__}books`. Keeping the `/` in the `__API_URL__` and the AJAX request will result in `//` as part of your endpoint and will cause an error.
 
-1. Return to your terminal and make sure to add and commit your changes. Then enter the command `git push heroku master` to push your instance to Heroku.
+8. Return to your terminal and make sure to add and commit your changes. Then enter the command `git push heroku master` to push your instance to Heroku.
   - Look for a completion message and the bottom that says "Verifying deploy... done."
-1. Navigate to your Heroku Dashboard and confirm that your Application instance appears.
-1. Click on your booklist app and go to the Resources tab. Search for "Postgres" and provision the free version to your app. This will automatically populate the `DATABASE_URL` config var in the Settings tab. Navigate to the Settings tab to verify.
-1. You will also need to manually enter the `CLIENT_URL` as a config var on Heroku. Return to your terminal and navigate into your frontend code. Create a new branch called "gh-pages" with the command `git checkout -b gh-pages`. This is the branch that will deploy your site to gh-pages when it is pushed to your repo. This is the deployed version of your frontend that Heroku will be pointing to.
-1. Add, commit, and push your frontend code. On GitHub, go to the frontend repo and click on Settings. Scroll down to see your deployed site. It should be in the format of: `https://todo-app-demo.github.io/todo-app-client/`.
-1. Return to Heroku and paste this URL as the VALUE of the `CLIENT_URL` config var.
-1. Migrate your local database to Heroku using one of the following methods.
+9. Navigate to your Heroku Dashboard and confirm that your Application instance appears.
+10. Click on your booklist app and go to the Resources tab. Search for "Postgres" and provision the free version to your app. This will automatically populate the `DATABASE_URL` config var in the Settings tab. Navigate to the Settings tab to verify.
+11. You will also need to manually enter the `CLIENT_URL` as a config var on Heroku. Return to your terminal and navigate into your frontend code. Create a new branch called "gh-pages" with the command `git checkout -b gh-pages`. This is the branch that will deploy your site to gh-pages when it is pushed to your repo. This is the deployed version of your frontend that Heroku will be pointing to.
+12. Add, commit, and push your frontend code. On GitHub, go to the frontend repo and click on Settings. Scroll down to see your deployed site. It should be in the format of: `https://todo-app-demo.github.io/todo-app-client/`.
+13. Return to Heroku and paste this URL as the VALUE of the `CLIENT_URL` config var.
+14. Migrate your local database to Heroku using one of the following methods.
 
 ##### Method 1:
 
