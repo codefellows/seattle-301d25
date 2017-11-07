@@ -8,6 +8,7 @@
 1. Clone both of these repositories into your folder. If you type the command to open the code in your code editor, such as `atom .` or `code .`, you can view both repositories together in your code editor.
 1. Scaffold a basic "Hello World" app and make sure that both the frontend and backend are communicating with each other. Open up two terminal windows: from your server directory, run your server with `nodemon` and from your client directory, run `live-server`. You will need to terminate both of these processes before moving on to deployment.
 1. From the command line, navigate into your server repository and enter the command `heroku create <partner 1 initials>-<partner 2 initials>-booklist`. For example, Allie and Sam would create their instance with the following command: `heroku create ag-sh-booklist`.
+
   - You will see your URL in the terminal, such as `https://ag-sh-booklist.herokuapp.com`.
   - Your AJAX requests should hit this Heroku application at specific endpoints. In the to-do demo, the endpoint is `https://ag-sh-booklist.herokuapp.com/books`
   - In your model file (in the to-do demo, it is `task.js`), declare a variable named `__API_URL__` and assign it the value of your new URL.
@@ -15,6 +16,7 @@
   - For example, `var __API_URL__ = https://ag-sh-booklist.herokuapp.com`.
   - This `__API_URL__` will be used in the AJAX requests within this file.
   - Your endpoint should follow the same pattern as the one listed above, so either remove the last `/` in the `__API_URL__` or remove the `/` in your AJAX requests, so it would appear as `${__API_URL__}books`. Keeping the `/` in the `__API_URL__` and the AJAX request will result in `//` as part of your endpoint and will cause an error.
+
 1. Return to your terminal and make sure to add and commit your changes. Then enter the command `git push heroku master` to push your instance to Heroku.
   - Look for a completion message and the bottom that says "Verifying deploy... done."
 1. Navigate to your Heroku Dashboard and confirm that your Application instance appears.
