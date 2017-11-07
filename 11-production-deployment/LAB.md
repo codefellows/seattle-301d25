@@ -9,7 +9,7 @@
 - Create a basic scaffold for each repo as the `first commit`
   - Do not add any features yet... just scaffold the directories and files for each repo.
 - Check out a new branch for today's lab assignment, semantically named `deployment`
-- See the adjacent deployment document for specific instructions
+- See the adjacent [deployment document](DEMPLOYMENT.md)for specific instructions
 - Complete your **Feature Tasks for the day**
 - Create a Pull Request (PR) back to `master`
 - Submit a link to your pull request on Canvas **Including the following:**
