@@ -3,7 +3,7 @@
 
 **Song for the day: ["The Final Countdown" by Gabe The Dog](https://www.youtube.com/watch?v=Rn5vJ0dhxXs)**
 
-- Reminder: the entrance exam for the 401 courses (which doubles as the final exam for this course) will be published late this afternoon and be available until 11:59pm Monday. It is a graded portion of this course, regardless of your intent to advance to a 401 course.
+- Reminder: the entrance exam for the 401 courses (which doubles as the final exam for this course) will be published late this afternoon and be available until 11:59pm Sunday. It is a graded portion of this course, regardless of your intent to advance to a 401 course.
 
 - The exam is open-book, open-Google, open-Stack_Overflow, whatever resources you want to use. The exam is designed to be, in spots, a little bit beyond what has been covered. The intent in those spots is to measure resourcefulness and ability to adapt and figure something out. Give yourselves adequate time for the exam: 1-2 hours depending if you are fast or slow on these kinds of things.
 
@@ -25,6 +25,16 @@
 - (topic 3?)
 
 **Let's look at a few prior 301 projects...**
+
+- [Seattle Field Finder](https://field-finder.herokuapp.com/)
+- [The 4th Bling](https://bling-4th-the-money.herokuapp.com/)
+- [Trivia Ninja](https://trivia-ninja.herokuapp.com/)
+- [Meteorite Mapper](https://meteorite-mapper.herokuapp.com/)
+- [Price I$ Right Parking](http://priceisrightparking.herokuapp.com/)
+- [Barkrawl](https://barkrawl.herokuapp.com/)
+- [Fremont Patroller](https://fremont-bike-patroller.herokuapp.com/)
+- [DroneStrike](https://whendronesattack.herokuapp.com/)
+- [Crime City](http://crime-city.herokuapp.com/)
 
 **Final projects: Let's go over the requirements!**
 
