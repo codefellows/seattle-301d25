@@ -1,6 +1,6 @@
 
 # seattle-301d25
-*Class lecture repo for seattle-301d25. Lead Instructor: Sam Hamm*
+*Class lecture repo for seattle-301d25. Lead Instructor: Sam Hamm, Assistant Instructos Allie Grampa and JB Tellez*
 
 <a id="top"></a>
 ## Code 301
